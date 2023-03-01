@@ -23,7 +23,7 @@ msgstr ""
 #: src/Images.jsx:84
 msgid "$0 container"
 msgid_plural "$0 containers"
-msgstr[0] "$0容器"
+msgstr[0] "$0个容器"
 
 #: src/Images.jsx:267
 msgid "$0 image total, $1"
@@ -318,7 +318,7 @@ msgstr "下载"
 
 #: src/Images.jsx:343
 msgid "Download new image"
-msgstr "现在新镜像"
+msgstr "下载新镜像"
 
 #: src/PodActions.jsx:55
 msgid "Empty pod $0 will be permanently removed."
