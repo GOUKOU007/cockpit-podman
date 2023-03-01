@@ -198,7 +198,7 @@ msgstr "创建"
 
 #: src/ContainerCommitModal.jsx:135
 msgid "Create a new image based on the current state of the $0 container."
-msgstr "根据 $0 容器的当前状态创建一个新镜像。"
+msgstr "根据容器 $0 的当前状态创建一个新镜像。"
 
 #: src/ImageRunModal.jsx:1035
 msgid "Create and run"
@@ -228,11 +228,11 @@ msgstr "已创建"
 
 #: src/ImageHistory.jsx:33
 msgid "Created by"
-msgstr "创建"
+msgstr "创建者："
 
 #: src/ImageRunModal.jsx:830
 msgid "Decrease CPU shares"
-msgstr "减少 CPU 共享"
+msgstr "减少 CPU 份额"
 
 #: src/ImageRunModal.jsx:935
 msgid "Decrease interval"
@@ -248,7 +248,7 @@ msgstr "减少内存"
 
 #: src/ImageRunModal.jsx:1009
 msgid "Decrease retries"
-msgstr "减少重试"
+msgstr "减少重试次数"
 
 #: src/ImageRunModal.jsx:985
 msgid "Decrease start period"
@@ -322,7 +322,7 @@ msgstr "下载新镜像"
 
 #: src/PodActions.jsx:55
 msgid "Empty pod $0 will be permanently removed."
-msgstr "空 pod $0 将被永久删除。"
+msgstr "空的 pod $0 将被永久删除。"
 
 #: src/ImageRunModal.jsx:757 src/ImageDetails.jsx:21
 msgid "Entrypoint"
@@ -386,7 +386,7 @@ msgstr "强制移除容器 $0 失败"
 
 #: src/ImageDeleteModal.jsx:54
 msgid "Failed to force remove image $0"
-msgstr "强制删除镜像失败 $0"
+msgstr "强制删除镜像 $0 失败"
 
 #: src/PodActions.jsx:113
 msgid "Failed to force restart pod $0"
@@ -614,7 +614,7 @@ msgstr "镜像"
 
 #: src/ImageRunModal.jsx:831
 msgid "Increase CPU shares"
-msgstr "增加 CPU 共享"
+msgstr "增加 CPU 份额"
 
 #: src/ImageRunModal.jsx:936
 msgid "Increase interval"
@@ -688,7 +688,7 @@ msgstr "正在加载日志..."
 
 #: src/Containers.jsx:559 src/ImageUsedBy.jsx:12
 msgid "Loading..."
-msgstr "加载中……"
+msgstr "加载中..."
 
 #: src/ImageRunModal.jsx:653
 msgid "Local"
